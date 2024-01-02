@@ -1,0 +1,8 @@
+.experience-section {
+    max-width: 1200px;
+    padding: 2.5rem 1.25rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 6.25px;
+}

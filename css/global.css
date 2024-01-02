@@ -24,3 +24,11 @@ img {
 a {
     text-decoration: none;
 }
+
+.subtitle {
+    font-size: 8rem;
+    line-height: 1;
+    text-transform: uppercase;
+    word-break: break-all;
+    max-width: 4ch;
+}

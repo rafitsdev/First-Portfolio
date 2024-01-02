@@ -1,6 +1,8 @@
 /* Learning how to import styles from other files, not the most optimal way, but it's a way */
-@import "./global-reset.css";
+@import "./global.css";
 
 @import "./header.css";
 
 @import "/css/intro.css";
+
+@import "/css/experience.css";
