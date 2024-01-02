@@ -27,6 +27,25 @@
     text-decoration: none;
     color: #141414;
     display: block;
+    position: relative;
+}
+
+.menu-link::before {
+    content: "";
+    position: absolute;
+    width: .2rem;
+    height: .125rem;
+    background-color: #fff;
+    bottom: 0;
+    left: 0;
+    transition: 0.25s ease-in-out;
+}
+
+.menu-link:hover::before {
+    content: "";
+    /* position: absolute; */
+    width: 100%;
+    background-color: #1c830b;
 }
 
 @media (max-width: 800px) {
