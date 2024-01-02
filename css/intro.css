@@ -1,0 +1,44 @@
+.intro {
+    max-width: 1200px;
+    padding: 2.5rem 1.25rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 6.25rem;
+    align-items: center;
+}
+
+.landing {
+    position: relative;
+    padding: 2rem;
+    margin-left: 2rem;
+}
+
+.intro-title {
+    font-size: 4rem;
+    line-height: 1.125;
+    margin-bottom: 1.875rem;
+}
+
+.intro-description {
+    font-size: 1.125rem;
+}
+
+.detail {
+    color: #156c07;
+}
+
+.landing-adorn {
+    position: absolute;
+    width: 2.8rem;
+}
+
+#adorn-top {
+    top: -1.75rem;
+    right: 1.5rem;
+}
+
+#adorn-bot {
+    left: -9rem;
+    bottom: -1.75rem;
+}
