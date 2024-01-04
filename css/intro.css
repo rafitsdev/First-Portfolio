@@ -11,7 +11,7 @@
 .landing::before {
     content: "";
     width: 4rem;
-    height: 4rem;
+    height: 4.0625rem;
     display: block;
     background: url("/public/img/Detail Bottom.svg") no-repeat;
     position: absolute;
@@ -22,7 +22,7 @@
 .landing::after {
     content: "";
     width: 4rem;
-    height: 4rem;
+    height: 4.0625rem;
     display: block;
     background: url("/public/img/Detail Top.svg") no-repeat;
     position: absolute;
@@ -89,9 +89,9 @@
 
     .intro-description::after {
         content: "";
-        width: .625rem;
-        height: 1rem;
-        background: url(/public/img/Adornment.svg) no-repeat;
+        width: .25rem;
+        height: 1.1875rem;
+        background: url("/public/img/Adornment.svg") no-repeat;
         top: .1rem;
         left: -1rem;
         position: absolute;

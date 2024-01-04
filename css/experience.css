@@ -23,9 +23,9 @@
 .experience-description::after {
     content: "";
     position: absolute;
-    background: url("/public/img/Detail Meduim Ball.svg") no-repeat;
-    width: 4rem;
-    height: 100%;
+    background: url("/public/img/Detail Medium Ball.svg") no-repeat;
+    width: 4.0625rem;
+    height: 28.875rem;
     left: -5.5rem;
 }
 
