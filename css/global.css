@@ -1,5 +1,5 @@
 body {
-  background-color: #f6fff4;
+  background-color: #fff;
   margin: 0;
   font-family: "Fira Sans", Arial, sans-serif;
   color: #141414;
@@ -20,6 +20,7 @@ ul {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 
