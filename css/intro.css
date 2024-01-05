@@ -1,5 +1,6 @@
 .intro {
     align-items: center;
+    padding: 3rem 1.25rem 2rem 1.5rem;
 }
 
 .landing {
@@ -77,6 +78,7 @@
     .intro {
         grid-template-columns: repeat(2, 1fr);
         gap: 2.5rem;
+        padding: 5rem 1.25rem 4.5rem 1.25rem;
     }
 
     .landing {
